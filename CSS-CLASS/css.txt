@@ -1,0 +1,9 @@
+CSS Types - Inline, Head tag & External
+CSS Selectors
+--Universal Selectors (*)
+--Elements Selectors (html elements)
+--Id Selectors (#id)
+--Class Selectors (.class)
+--Element/Class Selectors (element.classname)
+--Grouping Selectors (comibnation of html elemenets)
+CSS POSITIONING

@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 5px;
+    box-sizing: border-box;
+    background-color: #15172b;
+    /* background-color #08d; light blue */
+    /* background-color: #65657b; gray*/
+    /* background-color: #06b; blue */
+}
+
+h1 {
+    font-size: xx-large;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: white;
+    font-weight: bolder;
+}
+
+section {
+    /* background-color: #303245; */
+    margin-top: 15rem;
+    margin-left: 30rem;
+    margin-right: 30rem;
+    padding: 20px;
+    text-align: left;
+    outline-color: #eee;
+    border: 10px solid gray;
+    color: white;
+}
