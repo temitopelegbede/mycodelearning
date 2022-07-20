@@ -15,5 +15,5 @@ git status (to check 'updated' status of files)
 git add filename (to add new files to cloud; . means all files)
 git commit -m "..." (to save new files with descriptive message)
 git restore --staged filename (to revert already saved files)
-git push ()
-git pull ()
+git push (to update all commited files to cloud)
+git pull 
